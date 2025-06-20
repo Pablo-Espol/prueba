@@ -50,5 +50,9 @@ public class Main {
         System.out.println("TERMINADO");
         
   sc.close();
+  System.out.println("yo estoy bien");
+  System.out.println("hola como estas mi querido amigo");
+  System.out.println("hola");
+  System.out.println("ya tu sabe de lo mas guchi");
     }
 }
